@@ -27,11 +27,9 @@ close.addEventListener('click',()=>{
 });
 */
 let text=document.querySelector('span');
-window.addEventListener(``,()=>{
     let wit=screen width;
     let hei=screen.height;
     text.innerText=`witdh:${wit} height:${hei}`;
-});
 // ...existing code...
 
 
